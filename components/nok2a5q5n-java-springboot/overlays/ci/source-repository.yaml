@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: nok2a5q5n-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/nok2a5q5n-java-springboot
